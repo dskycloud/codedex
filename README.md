@@ -1,3 +1,3 @@
-# 🎓 Codedex JavaScript Projects
+# 🤖 Codedex Projects
 
-Welcome to my JavaScript Learning Projects repository! 🌟 This repo contains a collection of coding exercises and mini-projects I completed as part of the Codedex course.
+This repository contains my learning projects completed as part of the Codedex course.
