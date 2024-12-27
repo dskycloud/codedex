@@ -1,4 +1,4 @@
-# FizzBuzz
+# FizzBuzz 🧒
 
 This project implements the classic FizzBuzz game.
 
